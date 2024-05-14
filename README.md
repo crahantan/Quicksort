@@ -1,2 +1,2 @@
 # Quicksort
-Programa escrito en java para el ordenamiento ascendente de valores dentro de un array.
+A program written in Java for the ascending ordering of values within an array, using the Quicksort algorithm.
